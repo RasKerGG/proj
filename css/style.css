@@ -1,0 +1,47 @@
+.navigation {
+    
+}
+#shirts{
+    text-decoration: none;
+    color: black;
+    margin-right: 50px;
+    margin-left: 290px;
+}
+#bags{
+    text-decoration: none;
+    color: black;
+}
+#gifts{
+    text-decoration: none;
+    color: black;
+}
+#toys{
+    text-decoration: none;
+    color: black;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+#menu{
+    display: inline-block;
+    margin-right: 50px;
+}
+#jxos{
+    display: inline-block;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+#shop{
+    display: inline-block;
+    margin-left: 310px;
+}
+body{
+    margin-left: 80px;
+    margin-top: 40px;
+    background-color: rgb(253,149,150);
+    border-radius: 50px;
+    border-color: black;
+    
+}
+.border{
+
+}
